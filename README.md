@@ -5,7 +5,7 @@ Ascii art is a project that involves taking a string as an argument and displayi
 ## Learning Objectives
 
 This project will help you learn and apply the following skills :
-- Use oh client utilities
+- Use client utilities
 - Manipulation of the Go programming
 - Methods for receiving data 
 - Methods for outputing data 
